@@ -6,8 +6,6 @@
 [![Resume Repo](https://img.shields.io/badge/GitHub-resume_repository-black?logo=github)](https://github.com/Tim4ig/cv)
 [![Resume PDF](https://img.shields.io/badge/Download-resume_pdf-red?logo=adobeacrobatreader)](https://github.com/Tim4ig/cv/raw/gh-pages/resume-work.pdf)
 
----
-
 ## Tech Stack
 
 Primary languages include Go, Python, TypeScript, and Java. I mainly build backend services and APIs using FastAPI, Fastify, Micronaut, and gRPC with protobuf-first architectures.
