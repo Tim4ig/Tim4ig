@@ -2,9 +2,9 @@
 
 ## Links
 
-LinkedIn: [https://www.linkedin.com/in/tymur-kramar-3ab934268/](https://www.linkedin.com/in/tymur-kramar-3ab934268/)
-Resume repository: [https://github.com/Tim4ig/cv](https://github.com/Tim4ig/cv)
-Download resume (PDF): [https://github.com/Tim4ig/cv/raw/gh-pages/resume-work.pdf](https://github.com/Tim4ig/cv/raw/gh-pages/resume-work.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin)](https://www.linkedin.com/in/tymur-kramar-3ab934268/)
+[![Resume Repo](https://img.shields.io/badge/GitHub-resume_repository-black?logo=github)](https://github.com/Tim4ig/cv)
+[![Resume PDF](https://img.shields.io/badge/Download-resume_pdf-red?logo=adobeacrobatreader)](https://github.com/Tim4ig/cv/raw/gh-pages/resume-work.pdf)
 
 ---
 
